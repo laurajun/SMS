@@ -11,6 +11,6 @@ Spring boot starter project took care of necessary Maven dependencies.
 I used JDK 16.0.1.
 
 I run mysql on Apache via XAMPP, so I made new database there for this project. 
-** 
 
+#
 
